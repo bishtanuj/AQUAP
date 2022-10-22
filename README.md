@@ -1,1 +1,1 @@
-# AQUAP
+# AQUAP - Air Quality Predictor
